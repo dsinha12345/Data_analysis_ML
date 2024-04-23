@@ -1,6 +1,6 @@
 **README**
 
-# CSC 1302 Project: Analysis and Visualization of Cooler Fan Vibration Data**
+# CSC 1302 Project: Analysis and Visualization of Cooler Fan Vibration Data
 
 This Python script is developed for the CSC 1302 project, focusing on the analysis, visualization, and machine learning aspects of accelerometer data collected from vibrations of a cooler fan with weights on its blades. The dataset can be used for various tasks, including prediction, classification, and vibration analysis, particularly in engines.
 
